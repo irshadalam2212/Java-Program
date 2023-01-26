@@ -1,2 +1,2 @@
 # Java-Program
-##Basic Java program
+Basic Java program
